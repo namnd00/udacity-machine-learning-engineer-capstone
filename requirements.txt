@@ -1,0 +1,7 @@
+Flask
+tensorflow
+scikit-learn
+imbalanced-learn
+matplotlib
+numpy
+pandas
